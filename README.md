@@ -19,4 +19,4 @@ To run this script, ensure that you have the following dependencies installed:
 - Ensure you have access to a Windows environment where Chrome is installed and that you have permission to access the user's data.
 
 ## Author
-- Kuraiyume (A1SBERG)
+- Kuroshiro (A1SBERG)
